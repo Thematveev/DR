@@ -1,4 +1,4 @@
-const token = "1734435426:AAE9xsn68kRO0L86-RMLN_F-DoBkM5Dy27Q"
+const token = "1786253960:AAEjM-qpPE7WXqyOUAat5xeiH5_uWo6t6wg"
 const chat = "367335715"
 const btn = document.getElementById('send')
 const textarea = document.getElementById('textarea')
